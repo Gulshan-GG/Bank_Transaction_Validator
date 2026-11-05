@@ -1,3 +1,4 @@
+# Author
 NAME : Gulshan Gupta
 ERP : RU-26-00883
 # Bank Transaction Validation System
@@ -105,3 +106,11 @@ This file stores only successfully validated transactions.
 This project demonstrates the practical implementation of Python programming concepts such as functions, conditional statements, loops, exception handling, file handling, lists, and string manipulation.
 
 It provides a simple way to validate bank transactions and manage account balances.
+
+## Project Mentor
+
+**Mentored by:** [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
+
+**GitHub:** [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
+
+**Role:** Python Mentor / Technical Guide
